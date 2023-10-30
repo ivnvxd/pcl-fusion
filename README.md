@@ -1,5 +1,11 @@
 # Point Cloud Fusion
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ivnvxd/ivnvxd/master/img/pcl-dog.gif" alt="Pointcloud" />
+
+</div>
+
 ## Introduction
 
 Point Cloud Fusion is a tool for fusing multiple point clouds into a unified, coherent model. This repository provides an easy-to-use interface for camera calibration and point cloud manipulation.
